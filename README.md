@@ -8,7 +8,7 @@ Lector de huella FP 4500 Digital Persona + WebSockets
 
 
 ## Video Tutorial
-https://youtu.be/dgeW2IkUgv0
+https://youtu.be/f4b9jTFfHYA
 
 ## Pre-Requisitos
 1. Tener composer instalado
