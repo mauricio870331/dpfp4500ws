@@ -91,14 +91,14 @@ jQuery('body').on('click', '.add_finger', function () {
                 Indice_Derecho: 'Indice',
                 Corazon_Derecho: 'Corazon',
                 Anular_Derecho: 'Anular',
-                Meñique_Derecho: 'Meñique'
+                Menique_Derecho: 'Meñique'
             },
             "Dedos Mano Izquierda": {
                 Pulgar_Izquierdo: 'Pulgar',
                 Indice_Izquierdo: 'Indice',
                 Corazon_Izquierdo: 'Corazon',
                 Anular_Izquierdo: 'Anular',
-                Meñique_Izquierdo: 'Meñique'
+                Menique_Izquierdo: 'Meñique'
             },
         },
         showCancelButton: true,
