@@ -130,7 +130,7 @@ NOTA: Estas credenciales se configurarán posteriormente en el plugin biometrico
     ```
 ## Actualizar campo tipo BLOB a LONGBLOG:
 
-2. Modifica el campo 'fingerprint' en la tabla 'fingerprints' de tipo blob a longblob en la tabla: fingerprints 
+2. Modifica el campo 'fingerprint' de tipo blob a longblob en la tabla: fingerprints 
 
 ![ModCampo](capturas/ModCampo.png)
 
