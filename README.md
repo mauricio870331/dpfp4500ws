@@ -11,7 +11,10 @@ Lector de huella FP 4500 Digital Persona + WebSockets
 https://youtu.be/dgeW2IkUgv0
 
 ## Pre-Requisitos
-CRUD de usuarios funcional en tu aplicación laravel.
+1. Tener composer instalado
+2. Tener NodeJs instalado
+3. CRUD de usuarios funcional en tu aplicación laravel.
+
 
 ## Crear proyecto laravel si aún no lo has creado
 1.Puedes usar laravel new:
