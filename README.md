@@ -2,7 +2,7 @@
 Lector de huella FP 4500 Digital Persona + WebSockets
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Latest Stable Version](https://poser.pugx.org/mhtutorials/dpfp4500ws/v)](https://packagist.org/packages/mhtutorials/dpfp4500ws)
+[![Latest Stable Version](https://poser.pugx.org/mhtutorials/dpfp4500ws/v/stable)](https://packagist.org/packages/mhtutorials/dpfp4500ws)
 [![Total Downloads](https://poser.pugx.org/mhtutorials/dpfp4500ws/downloads)](https://packagist.org/packages/mhtutorials/dpfp4500ws)
 <!-- [![Latest Stable Version](https://poser.pugx.org/mhtutorials/dpfp4500ws/v/stable)](https://packagist.org/packages/mhtutorials/dpfp4500ws)-->
 
