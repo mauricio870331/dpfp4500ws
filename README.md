@@ -211,7 +211,7 @@ php artisan storage:link
 ## Descargar y configurar el plugin biometrico solo para windows
 
 Descarga el instalador del plugin biometrico "BiometricWebBridgeSocket-For-Laravel Setup.exe" desde el siguiente enlace:
-https://drive.google.com/file/d/1iTOIHeDpZ5PKru7mSQ8j27MiFD8kCPZK/view?usp=sharing
+https://drive.google.com/drive/folders/1-hXLjf7nWgjcwNxFnH2_1Ggzly4Pb118?usp=sharing
 
 1. Abre el programa plugin biometrico, diligencia los campos en el formulario de configuración
 
